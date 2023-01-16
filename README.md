@@ -1,2 +1,2 @@
 # socket-based-tic-tac-toe-java
-A Tic Tac Toe game that can be played between two players over a local network using Java socket programming. The game features a server-client architecture, where the server handles game logic, and clients connect to the server to play the game.
+A Tic Tac Toe game that can be played between two players over a local network using Java socket programming. The game features a server-client architecture, where the server handles game logic, and clients connect to the server to play the game. The game features a user-friendly interface, robust game logic, and error handling. The code is well-documented and easy to understand, making it a great learning resource for anyone interested in socket programming and game development.
